@@ -1,0 +1,9 @@
+C:\Users\Ariel\Documents\NetBeansProjects\todoList\src\main\java\com\mycompany\todolist\TodoList.java
+C:\Users\Ariel\Documents\NetBeansProjects\todoList\src\main\java\persistencia\ControlPersis.java
+C:\Users\Ariel\Documents\NetBeansProjects\todoList\src\main\java\persistencia\GrupoJpaController.java
+C:\Users\Ariel\Documents\NetBeansProjects\todoList\src\main\java\persistencia\exceptions\PreexistingEntityException.java
+C:\Users\Ariel\Documents\NetBeansProjects\todoList\src\main\java\persistencia\exceptions\NonexistentEntityException.java
+C:\Users\Ariel\Documents\NetBeansProjects\todoList\src\main\java\entidad\Grupo.java
+C:\Users\Ariel\Documents\NetBeansProjects\todoList\src\main\java\persistencia\TareaJpaController.java
+C:\Users\Ariel\Documents\NetBeansProjects\todoList\src\main\java\entidad\Tarea.java
+C:\Users\Ariel\Documents\NetBeansProjects\todoList\src\main\java\persistencia\exceptions\IllegalOrphanException.java

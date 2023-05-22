@@ -1,0 +1,11 @@
+entidad\Tarea.class
+com\mycompany\todolist\TodoList.class
+entidad\Grupo_.class
+entidad\Tarea_.class
+persistencia\TareaJpaController.class
+persistencia\ControlPersis.class
+persistencia\GrupoJpaController.class
+persistencia\exceptions\NonexistentEntityException.class
+persistencia\exceptions\PreexistingEntityException.class
+entidad\Grupo.class
+persistencia\exceptions\IllegalOrphanException.class
